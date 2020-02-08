@@ -10,6 +10,7 @@ namespace ConsolaGitHub
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
